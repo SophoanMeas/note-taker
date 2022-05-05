@@ -1,10 +1,15 @@
 const router = require("express").Router();
 
-const {dbNotes} = require('../../db')
+const { fetchNotes, addNotes, saveNotes, deleteNotes } = require("../../lib/notes");
+const Notes = require("../../lib/notes");
 
-router.get('/notes', (req, res) =>{
+// Get request
+router.get("/notes", (req, res) => {
+    fetchNotes(res);
+});
 
-    })
-
+router.post('/notes', (req, res) => {
+    addNotes(req, res)
+})
 
 module.exports = router;

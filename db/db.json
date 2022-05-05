@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Dentist appointment",
+        "text": "Go to the dentist for teeth cleaning",
+        "id": "9e888242-97cd-4d25-9262-22a139c50fe0"
+    },
+    {
+        "title": "Grocery shopping",
+        "text": "Buy fruits, eggs, bread, granola bars and wine.\n",
+        "id": "bed3f993-8c7b-4a99-9f7c-110d9cc74642"
     }
 ]
