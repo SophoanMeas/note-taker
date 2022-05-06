@@ -44,7 +44,7 @@ Option 2
 [run app on live server]
 
 1. click on the link below to be redirect to the application
-<a href="https://sophoanmeas.github.io/weather-dashboard/develop/index.html" target="_blank"><h2>📔Note Taker</a>
+<a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h2>📔Note Taker</a>
 
 # Usage
 
@@ -100,3 +100,6 @@ Have a question? Feel free to drop me an email.
 ![Alt text](./public/assets/image/homepage.png)
 ![Alt text](./public/assets/image/note-taker.png)
 ![Alt text](./public/assets/image/note-take.gif)
+
+## Live Application
+<a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h3>📔Note Taker</a>
