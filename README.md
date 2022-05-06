@@ -57,7 +57,6 @@ Option 2
 
 * HTML
 * CSS
-* Jquery
 * Bootstrap (style)
 * JavaScript
 * Node.js
